@@ -82,12 +82,12 @@ Given a video of a dashcam of a car, this project attempts to isolate the curved
 
 * Clone the repository into any folder of your choice.
 ```
-git clone https://github.com/ninadharish/AR-Tag-Detection-and-Tracking.git
+git clone https://github.com/ninadharish/Turn-Prediction-for-Autonomous-Navigation.git
 ```
 
 * Open the repository and navigate to the `src` folder.
 ```
-cd AR-Tag-Detection-and-Tracking/src
+cd Turn-Prediction-for-Autonomous-Navigation/src
 ```
 * Depending on whether you want to superimpose athe image or 3D cube on the tag, comment/uncomment the proper line.
 
