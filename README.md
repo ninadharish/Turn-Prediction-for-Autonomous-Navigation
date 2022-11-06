@@ -59,7 +59,7 @@ Given a video of a dashcam of a car, this project attempts to isolate the curved
 
 ![alt text](/output/out5.jpg)
 
-* Final Output [Link] (https://drive.google.com/file/d/1g75wtSCWvYk7_pmEpAO1RM4qIMk4fhZc/view?usp=sharing)
+* Final Output [Link](https://drive.google.com/file/d/1g75wtSCWvYk7_pmEpAO1RM4qIMk4fhZc/view?usp=sharing)
 
 ![alt text](/output/outvid.gif)
 
