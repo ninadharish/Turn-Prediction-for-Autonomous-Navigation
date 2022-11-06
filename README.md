@@ -41,23 +41,23 @@ Given a video of a dashcam of a car, this project attempts to isolate the curved
 
 * Binary Warped Image
 
-![alt text](/output/out1.png)
+![alt text](/output/out1.jpg)
 
 * Lane plots highlighted
 
-![alt text](/output/out2.png)
+![alt text](/output/out2.jpg)
 
 * Highlighted lanes on the original frame
 
-![alt text](/output/out3.png)
+![alt text](/output/out3.jpg)
 
 * Output when lane is found
 
-![alt text](/output/out4.png)
+![alt text](/output/out4.jpg)
 
 * Output when lane is not found
 
-![alt text](/output/out5.png)
+![alt text](/output/out5.jpg)
 
 * Final Output [Link] (https://drive.google.com/file/d/1g75wtSCWvYk7_pmEpAO1RM4qIMk4fhZc/view?usp=sharing)
 
